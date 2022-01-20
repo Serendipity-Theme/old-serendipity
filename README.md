@@ -4,10 +4,10 @@
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for **`serendipity`**
+2. Search for **`old-serendipity`**
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme >
- **serendipity-light - serendipity-dark - serendipity-dark-italic - serendipity-light-italic**
+ **Serendipity light italic - Serendipity Dark Italic - Serendipity High Contrast Italic - serendipity-light-italic**
 5. Optional: Use the recommended settings below for best experience
 
 ## Recommended Settings
@@ -62,7 +62,7 @@ The theme is available for editors, shells, UI's and more coming up.
 - High Contrast
 
 
-## Checkout the lastest version at:
+## Checkout the lastest and continued version at:
 ### [Serendipity Theme](https://serendipitytheme.com)
 ### [Marketplace](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity)
 
