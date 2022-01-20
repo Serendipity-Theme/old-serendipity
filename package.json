@@ -1,0 +1,51 @@
+{
+    "name": "old-serendipity",
+    "displayName": "Old Serendipity",
+    "description": "Old and unconsistent version of Serendipity. No maintained but is here because some users wanted it.",
+    "publisher": "wicked-labs",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/michael-andreuzza/old-serendipity.git"
+    },
+    "bugs": {
+        "url": "https://github.com/michael-andreuzza/old-serendipity.git",
+        "email": "michael@andreuzza.com"
+    },
+    "homepage": "https://github.com/michael-andreuzza/old-serendipity",
+
+    "galleryBanner": {
+        "color": "#f6f6f6",
+        "theme": "light"
+    },
+
+    "keywords": [
+        "WVSC",
+        "them",
+        "dark",
+        "light"
+    ],
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Serendipity Light",
+                "uiTheme": "vs",
+                "path": "./themes/serendipity-light-italics.json"
+            },{
+                "label": "Serendipity Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/serendipity-dark-italics.json"
+            },{
+                "label": "Serendipity High Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/serendipity-dark-high-contrast-italics.json"
+            }
+        ]
+    }
+}
