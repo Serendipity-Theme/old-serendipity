@@ -28,6 +28,28 @@
   "editor.renderWhitespace": "all",
 }
 ```
+## To remove italics  add this snippet to your settings.json, this will disable italics.
+```js
+"editor.tokenColorCustomizations": {
+  "[Serendipity]": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "entity.other.attribute-name",
+          "entity.other.inherited-class",
+          "support.function",
+          "variable",
+          "meta.directive.vue"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  }
+}
+```
 
 ## Colours
 I have worked towards a color palette that would feel fine on the eyes when using retina screens, this color combination made it possible, thanks to the pastel colors used on dark mode instead of "neonish".
