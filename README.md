@@ -3,6 +3,7 @@
 ## Checkout the new & supported version at:
 
 ### [Serendipity Theme Website](https://serendipitytheme.com)
+
 ### [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity)
 
 The theme is available for many editors, shells and UIs, with even more coming up!
@@ -16,14 +17,34 @@ The theme is available for many editors, shells and UIs, with even more coming u
 5. Optional: Use the recommended settings below for best experience
 
 ## Themes
+
+### Midnight
 You have three themes, Midnight, Sunset and Morning and here the screenshots
-![VS Code Marketplace](https://pbs.twimg.com/profile_banners/953420111305760769/1643664684/1500x500)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-css.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-gulp.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-html.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-javascript.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-markddown.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-python.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-tsx.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-typescript.png?raw=true)
 
-### Midnight
 ### Sunset
+You have three themes, Midnight, Sunset and Morning and here the screenshots
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-css.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-gulp.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-html.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-javascript.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-markddown.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-python.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-tsx.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-typescript.png?raw=true)
+
+
+
+
 
 ### Midnight
-
 
 ## Recommended Settings
 
@@ -40,15 +61,17 @@ You have three themes, Midnight, Sunset and Morning and here the screenshots
   "editor.cursorStyle": "line",
   "editor.cursorWidth": 5,
   "editor.cursorBlinking": "phase",
-  "editor.renderWhitespace": "all",
+  "editor.renderWhitespace": "all"
 }
 ```
+
 ## Italics
 
 All themes use italics for certain language tokens by default.
 To **disable** italics for all themes, add this snippet to your `settings.json`:
-  - quotes and *italic* strings (like in markdown) will be unaffected and still be italic
-  - if you want to exclude one of the themes from this change, simply remove its name (along with the brackets `[]`) at the top of the snippet
+
+- quotes and _italic_ strings (like in markdown) will be unaffected and still be italic
+- if you want to exclude one of the themes from this change, simply remove its name (along with the brackets `[]`) at the top of the snippet
 
 ```jsonc
 "editor.tokenColorCustomizations": {
@@ -131,6 +154,7 @@ To **disable** italics for all themes, add this snippet to your `settings.json`:
 ```
 
 ## Available Options
+
 - Dark
 - High Contrast
 - Light
