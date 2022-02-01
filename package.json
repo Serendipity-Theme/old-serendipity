@@ -3,7 +3,7 @@
     "displayName": "Old Serendipity",
     "description": "Old and unconsistent version of Serendipity. No maintained but is here because some users wanted it.",
     "publisher": "wicked-labs",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/michael-andreuzza/old-serendipity.git"
