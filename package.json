@@ -13,7 +13,7 @@
         "email": "michael@andreuzza.com"
     },
     "homepage": "https://github.com/michael-andreuzza/old-serendipity",
-
+    "icon": "icons/theme-icon.png",
     "galleryBanner": {
         "color": "#f6f6f6",
         "theme": "light"

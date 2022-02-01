@@ -6,14 +6,12 @@
 
 ### [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity)
 
-The theme is available for many editors, shells and UIs, with even more coming up!
-
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for **`old-serendipity`**
 3. Click **Install** to install it.
-4. Code > Preferences > Color Theme > **`Serendipity Light` / `Serendipity Dark` / `Serendipity High Contrast`**
+4. Code > Preferences > Color Theme > **`Serendipity Midnight V1` / `Serendipity Sunset V1` / `Serendipity Morning V1 `**
 5. Optional: Use the recommended settings below for best experience
 
 ## Themes
