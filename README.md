@@ -1,4 +1,4 @@
-# Serendipity. (Outdated & Unsupported Version)
+# Serendipiti V1. (Unsupported Version)
 
 ## Checkout the new & supported version at:
 
@@ -15,8 +15,15 @@ The theme is available for many editors, shells and UIs, with even more coming u
 4. Code > Preferences > Color Theme > **`Serendipity Light` / `Serendipity Dark` / `Serendipity High Contrast`**
 5. Optional: Use the recommended settings below for best experience
 
-## Colours
-I have worked towards a color palette that would feel fine on the eyes when using retina screens, this color combination made it possible, thanks to the pastel colors used on dark mode instead of "neonish".
+## Themes
+You have three themes, Midnight, Sunset and Morning and here the screenshots
+![VS Code Marketplace](https://pbs.twimg.com/profile_banners/953420111305760769/1643664684/1500x500)
+
+### Midnight
+### Sunset
+
+### Midnight
+
 
 ## Recommended Settings
 
@@ -38,7 +45,7 @@ I have worked towards a color palette that would feel fine on the eyes when usin
 ```
 ## Italics
 
-All themes use italics for certain language tokens by default.  
+All themes use italics for certain language tokens by default.
 To **disable** italics for all themes, add this snippet to your `settings.json`:
   - quotes and *italic* strings (like in markdown) will be unaffected and still be italic
   - if you want to exclude one of the themes from this change, simply remove its name (along with the brackets `[]`) at the top of the snippet
