@@ -1,6 +1,6 @@
 {
     "name": "old-serendipity",
-    "displayName": "Old Serendipity",
+    "displayName": "Serendipity V1",
     "description": "Old and unconsistent version of Serendipity. No maintained but is here because some users wanted it.",
     "publisher": "wicked-labs",
     "version": "0.3.0",
@@ -19,9 +19,9 @@
         "theme": "light"
     },
     "keywords": [
-        "WVSC",
-        "them",
+        "serendipity",
         "dark",
+        "modern",
         "light"
     ],
     "engines": {
