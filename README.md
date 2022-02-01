@@ -41,10 +41,15 @@ You have three themes, Midnight, Sunset and Morning and here the screenshots
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-typescript.png?raw=true)
 
 
-
-
-
-### Midnight
+### Morning
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-css.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-gulp.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-html.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-javascript.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-markddown.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-python.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-tsx.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-typescript.png?raw=true)
 
 ## Recommended Settings
 

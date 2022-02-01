@@ -33,15 +33,15 @@
     ],
     "contributes": {
         "themes": [
-             {
-                "label": "Serendipity Midnight V1",
-                "uiTheme": "vs-dark",
-                "path": "./themes/serendipity-dark-high-contrast-italics.json"
-            },
             {
                 "label": "Serendipity Morning V1",
                 "uiTheme": "vs",
                 "path": "./themes/serendipity-light-italics.json"
+            },
+             {
+                "label": "Serendipity Midnight V1",
+                "uiTheme": "vs-dark",
+                "path": "./themes/serendipity-dark-high-contrast-italics.json"
             },
             {
                 "label": "Serendipity Sunset V1",
