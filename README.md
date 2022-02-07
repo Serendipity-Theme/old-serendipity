@@ -4,8 +4,7 @@
 
 ### [Serendipity Theme Website](https://serendipitytheme.com)
 
-### [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity)
-
+### [Marketplace](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity)
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
@@ -22,7 +21,7 @@ You have three themes, Midnight, Sunset and Morning and here the screenshots
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-gulp.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-html.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-javascript.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-markddown.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-markdown.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-python.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-tsx.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/midnight-screenshots/midnight-typescript.png?raw=true)
@@ -33,7 +32,7 @@ You have three themes, Midnight, Sunset and Morning and here the screenshots
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-gulp.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-html.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-javascript.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-markddown.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-markdown.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-python.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-tsx.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/sunset-screenshots/sunset-typescript.png?raw=true)
@@ -44,7 +43,7 @@ You have three themes, Midnight, Sunset and Morning and here the screenshots
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-gulp.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-html.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-javascript.png?raw=true)
-![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-markddown.png?raw=true)
+![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-markdown.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-python.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-tsx.png?raw=true)
 ![VS Code Marketplace](https://github.com/Serendipity-Theme/old-serendipity/blob/master/morning-screenshots/morning-typescript.png?raw=true)
