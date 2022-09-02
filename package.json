@@ -48,5 +48,6 @@
                 "path": "./themes/serendipity-dark-italics.json"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }
